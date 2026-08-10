@@ -1,0 +1,8 @@
+{
+  "name": "Drug & CPT1 Reference",
+  "short_name": "Drug Ref",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f8",
+  "theme_color": "#0b4f6c"
+}
