@@ -37631,8 +37631,18 @@ function crc32(bytes){
 function u16(v){ return [v & 0xFF, (v >>> 8) & 0xFF]; }
 function u32(v){ return [v & 0xFF, (v >>> 8) & 0xFF, (v >>> 16) & 0xFF, (v >>> 24) & 0xFF]; }
 function strBytes(s){ var b = []; for (var i = 0; i < s.length; i++) b.push(s.charCodeAt(i) & 0xFF); return b; }
+function dosDateTime(d){
+  // the archive's stored timestamp should be WHEN IT WAS ZIPPED, not a date frozen
+  // into the build - otherwise every zip anyone ever downloads claims the same
+  // build day forever, regardless of when they actually clicked Download.
+  d = d || new Date();
+  var time = ((d.getHours() & 0x1F) << 11) | ((d.getMinutes() & 0x3F) << 5) | ((d.getSeconds() >> 1) & 0x1F);
+  var date = (((Math.max(d.getFullYear(), 1980) - 1980) & 0x7F) << 9) | (((d.getMonth() + 1) & 0xF) << 5) | (d.getDate() & 0x1F);
+  return {time: time, date: date};
+}
 function buildZip(files){
-  var chunks = [], central = [], offset = 0, dTime = 0, dDate = ((2026 - 1980) << 9) | (8 << 5) | 10;
+  var now = dosDateTime();
+  var chunks = [], central = [], offset = 0, dTime = now.time, dDate = now.date;
   files.forEach(function(f){
     var nameBytes = strBytes(f.name), data = f.data, crc = crc32(data);
     var local = new Uint8Array([].concat(u32(0x04034b50), u16(20), u16(0), u16(0), u16(dTime), u16(dDate),
