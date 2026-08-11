@@ -66,7 +66,8 @@ a{color:inherit;}
   background:#0b4f6c; color:#fff; font-weight:700; cursor:pointer; font-family:inherit;}
 .pdfpanel .note{font-size:.72rem; color:#888; margin-top:.4rem;}
 .app{display:flex; align-items:flex-start; min-height:100vh;}
-.content{flex:1; min-width:0; padding:1rem; max-width:900px; margin:0 auto;}
+.content{flex:1; min-width:0; padding:1rem; max-width:900px; margin:0 auto;
+  transition:transform .28s ease;}
 /* ---- sidebar restyle (Prat's 2026-08-10 grill) ---------------------------
    Full class names stay full - he explicitly rejected truncating them - so
    the fix is structural, not typographic shrinkage:
@@ -243,7 +244,19 @@ td{padding:.4rem .55rem; border-bottom:1px solid #eee; vertical-align:top;}
      byte-for-byte the same width open or closed - only the nav disappears.
      display:none or width:0 would let .content reflow wider, which is the one
      thing he asked for it not to do. */
-  .app.nav-closed .sidebar{visibility:hidden;}
+  .app.nav-closed .sidebar{visibility:hidden; opacity:0; transition:opacity .2s ease;}
+  /* ...and slide the column to the true centre of the screen (2026-08-11,
+     his follow-up: "make it move to the middle"). .content is already
+     max-width:900px + margin:0 auto, so it centres inside the space RIGHT
+     of the 290px sidebar slot - i.e. it sits exactly half a sidebar (145px)
+     right of the viewport centre, at every window size. Shifting it back by
+     that much centres it exactly.
+     TRANSFORM, not margin/width: a transform has zero layout effect, so the
+     column cannot change width - which was his previous constraint and still
+     holds. Collapsing the sidebar to width:0 and letting it re-centre would
+     have been simpler but WOULD resize it between ~821-1190px, where the
+     open layout leaves less than 900px to work with. */
+  .app.nav-closed .content{transform:translateX(calc(290px / -2));}
 }
 @media (max-width:820px){
   .sidebar{position:fixed; left:0; top:0; height:100vh; z-index:50; transform:translateX(-100%);
