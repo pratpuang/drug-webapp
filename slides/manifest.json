@@ -4,7 +4,7 @@
   "subject": "clinical pharmacy and therapeutics 1",
   "title": "FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1)",
   "pages": 6,
-  "bytes": 145180,
+  "ar": 1.4136,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1).pdf.md",
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/ตารางเรียนวิชา CPT1 ปีการศึกษา 2569/FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1).pdf.md"
@@ -15,7 +15,7 @@
   "subject": "clinical pharmacy and therapeutics 1",
   "title": "Principle of Pharmaceutical Care I 3Aug2026",
   "pages": 15,
-  "bytes": 1225553,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Principle of Pharmaceutical Care I 3Aug2026.pdf.md"
   ]
@@ -25,7 +25,7 @@
   "subject": "clinical pharmacy and therapeutics 1",
   "title": "Sl.BSc.Pharm.Case-based SOAP note.5",
   "pages": 26,
-  "bytes": 1474002,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Case-based SOAP note.5.pdf.md"
   ]
@@ -35,7 +35,7 @@
   "subject": "clinical pharmacy and therapeutics 1",
   "title": "Sl.BSc.Pharm.Pcare.3",
   "pages": 78,
-  "bytes": 2068795,
+  "ar": 0.6673,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Pcare.3.pdf.md"
   ]
@@ -45,7 +45,7 @@
   "subject": "clinical pharmacy and therapeutics 1",
   "title": "handout basic drug interaction and clinical approach (apirat)",
   "pages": 37,
-  "bytes": 4030499,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/handout basic drug interaction and clinical approach (apirat).pdf.md"
   ]
@@ -55,7 +55,7 @@
   "subject": "clinical pharmacy and therapeutics 2",
   "title": "Acid-peptic diseases 140826 210826 TL",
   "pages": 75,
-  "bytes": 6374175,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/Acid-peptic diseases 140826 210826 TL.pdf.md"
   ]
@@ -65,7 +65,7 @@
   "subject": "clinical pharmacy and therapeutics 2",
   "title": "Diarrhea Constipation IBS Hemorrhoid 070826 TL",
   "pages": 69,
-  "bytes": 5037999,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/Diarrhea Constipation IBS Hemorrhoid 070826 TL.pdf.md"
   ]
@@ -75,7 +75,7 @@
   "subject": "clinical pharmacy and therapeutics 2",
   "title": "แผนการสอนรายวิชา ภกปร 402 CPT2 - 2569",
   "pages": 3,
-  "bytes": 278419,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/แผนการสอนรายวิชา ภกปร 402 CPT2 - 2569.pdf.md"
   ]
@@ -85,7 +85,7 @@
   "subject": "pharmacology 1",
   "title": "20250925 PCo1_Drug in OA_RA_HandoutV2",
   "pages": 73,
-  "bytes": 2042421,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กชรัตน์/20250925 PCo1_Drug in OA_RA_HandoutV2.pdf.md"
   ]
@@ -95,7 +95,7 @@
   "subject": "pharmacology 1",
   "title": "2568 เอกสารคำสอน  Parasymphatomimetic and parasymphatolytic agents",
   "pages": 54,
-  "bytes": 3529966,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568 เอกสารคำสอน  Parasymphatomimetic and parasymphatolytic agents.pdf.md"
   ]
@@ -105,7 +105,7 @@
   "subject": "pharmacology 1",
   "title": "2568 เอกสารคำสอน_เภสัชวิทยาของยารักษาโรคเกาต์_วิลาสินี",
   "pages": 26,
-  "bytes": 1463408,
+  "ar": 1.2945,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568 เอกสารคำสอน_เภสัชวิทยาของยารักษาโรคเกาต์_วิลาสินี.pdf.md"
   ]
@@ -115,7 +115,7 @@
   "subject": "pharmacology 1",
   "title": "2568_ Sept 3_Slide_Drugs used in Parasympathetic systems",
   "pages": 60,
-  "bytes": 4304774,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568_ Sept 3_Slide_Drugs used in Parasympathetic systems.pdf.md"
   ]
@@ -125,7 +125,7 @@
   "subject": "pharmacology 1",
   "title": "2568_For lecture_pharmacology1_ Gout (1 h)",
   "pages": 33,
-  "bytes": 2495403,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568_For lecture_pharmacology1_ Gout (1 h).pdf.md"
   ]
@@ -135,7 +135,7 @@
   "subject": "pharmacology 1",
   "title": "2568_Slide_Aug 27 and 28_Sympathomimetic and sympatholytic drugs",
   "pages": 69,
-  "bytes": 5117736,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568_Slide_Aug 27 and 28_Sympathomimetic and sympatholytic drugs.pdf.md"
   ]
@@ -145,7 +145,7 @@
   "subject": "pharmacology 1",
   "title": "ACE inhibitos, ARBs & DRIs",
   "pages": 20,
-  "bytes": 1426517,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/ACE inhibitos, ARBs & DRIs.pdf.md"
   ]
@@ -155,7 +155,7 @@
   "subject": "pharmacology 1",
   "title": "Antianginal Agents_Warisara_2025",
   "pages": 38,
-  "bytes": 931261,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Antianginal Agents_Warisara_2025.pdf.md"
   ]
@@ -165,7 +165,7 @@
   "subject": "pharmacology 1",
   "title": "Antiarrhythmic drugs - Warisara_2025",
   "pages": 32,
-  "bytes": 1114581,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Antiarrhythmic drugs - Warisara_2025.pdf.md"
   ]
@@ -175,7 +175,7 @@
   "subject": "pharmacology 1",
   "title": "Antihypertensive Agents",
   "pages": 25,
-  "bytes": 1703836,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/Antihypertensive Agents.pdf.md"
   ]
@@ -185,7 +185,7 @@
   "subject": "pharmacology 1",
   "title": "CCBs",
   "pages": 18,
-  "bytes": 1339397,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/CCBs.pdf.md"
   ]
@@ -195,7 +195,7 @@
   "subject": "pharmacology 1",
   "title": "Diuretics_Warisara_2025",
   "pages": 39,
-  "bytes": 1028188,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Diuretics_Warisara_2025.pdf.md"
   ]
@@ -205,7 +205,7 @@
   "subject": "pharmacology 1",
   "title": "Drug interaction-for Pco-I",
   "pages": 90,
-  "bytes": 853102,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/Drug interaction-for Pco-I.pdf.md"
   ]
@@ -215,7 +215,7 @@
   "subject": "pharmacology 1",
   "title": "Drugs affecting gastrointestinal motility TL 040925",
   "pages": 36,
-  "bytes": 2984726,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.ธีรัตถ์/Drugs affecting gastrointestinal motility TL 040925.pdf.md"
   ]
@@ -225,7 +225,7 @@
   "subject": "pharmacology 1",
   "title": "Drugs for acid-peptic diseases TL 100925",
   "pages": 41,
-  "bytes": 2434469,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.ธีรัตถ์/Drugs for acid-peptic diseases TL 100925.pdf.md"
   ]
@@ -235,7 +235,7 @@
   "subject": "pharmacology 1",
   "title": "Histamine anti-histamines and serotonin agonists_2025",
   "pages": 36,
-  "bytes": 1704600,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Histamine anti-histamines and serotonin agonists_2025.pdf.md"
   ]
@@ -245,7 +245,7 @@
   "subject": "pharmacology 1",
   "title": "IBD",
   "pages": 41,
-  "bytes": 1958492,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/IBD.pdf.md"
   ]
@@ -255,7 +255,7 @@
   "subject": "pharmacology 1",
   "title": "P'Co1_PGx_2025",
   "pages": 36,
-  "bytes": 2448978,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/P'Co1_PGx_2025.pdf.md"
   ]
@@ -265,7 +265,7 @@
   "subject": "pharmacology 1",
   "title": "Pharmacology of Antithrombotics_2025_SW",
   "pages": 60,
-  "bytes": 4059432,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Antithrombotics_2025_SW.pdf.md"
   ]
@@ -275,7 +275,7 @@
   "subject": "pharmacology 1",
   "title": "Pharmacology of Lipid-lowering Agents_SW_2025",
   "pages": 50,
-  "bytes": 3478747,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Lipid-lowering Agents_SW_2025.pdf.md"
   ]
@@ -285,7 +285,7 @@
   "subject": "pharmacology 1",
   "title": "Pharmacology_of_Heart_Failure_2025",
   "pages": 53,
-  "bytes": 3778372,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/Pharmacology_of_Heart_Failure_2025.pdf.md"
   ]
@@ -295,7 +295,7 @@
   "subject": "pharmacology 1",
   "title": "Principle of drug action 2025",
   "pages": 40,
-  "bytes": 2857060,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/Principle of drug action 2025.pdf.md"
   ]
@@ -305,7 +305,7 @@
   "subject": "pharmacology 1",
   "title": "Principle of drug toxicity- P co I",
   "pages": 36,
-  "bytes": 1855789,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/Principle of drug toxicity- P co I.pdf.md"
   ]
@@ -315,7 +315,7 @@
   "subject": "pharmacology 1",
   "title": "Principles of Pharmacokinetics_2025",
   "pages": 36,
-  "bytes": 1939057,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Principles of Pharmacokinetics_2025.pdf.md"
   ]
@@ -325,7 +325,7 @@
   "subject": "pharmacology 1",
   "title": "Prostanoids, NSAIDs and leukotriene antagonists_2025",
   "pages": 42,
-  "bytes": 2517496,
+  "ar": 0.7073,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Prostanoids, NSAIDs and leukotriene antagonists_2025.pdf.md"
   ]
@@ -335,7 +335,7 @@
   "subject": "pharmacology 1",
   "title": "Vasodilators_Warisara_2025",
   "pages": 52,
-  "bytes": 1173658,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Vasodilators_Warisara_2025.pdf.md"
   ]
@@ -345,7 +345,7 @@
   "subject": "pharmacology 1",
   "title": "ประมวลรายวิชา เภสัชวิทยา 1 PYCH304-2568",
   "pages": 3,
-  "bytes": 131988,
+  "ar": 1.4136,
   "docs": [
    "corpus/study/docs/pharmacology 1/ประมวลรายวิชา เภสัชวิทยา 1 PYCH304-2568.pdf.md"
   ]
@@ -355,7 +355,7 @@
   "subject": "pharmacology 1",
   "title": "เอกสารคำสอน 2568_Pharmacology ยาออกฤทธิ์เลียนแบบและยับยั้งการทำงานของระบบประสาทอะดรีเนอจิก_Vilasinee",
   "pages": 53,
-  "bytes": 2519771,
+  "ar": 1.2945,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/เอกสารคำสอน 2568_Pharmacology ยาออกฤทธิ์เลียนแบบและยับยั้งการทำงานของระบบประสาทอะดรีเนอจิก_Vilasinee.pdf.md"
   ]
@@ -365,7 +365,7 @@
   "subject": "pharmacology 1",
   "title": "เอกสารคำสอน Prostanoids and NSAIDs",
   "pages": 18,
-  "bytes": 859155,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน Prostanoids and NSAIDs.pdf.md"
   ]
@@ -375,7 +375,7 @@
   "subject": "pharmacology 1",
   "title": "เอกสารคำสอน เภสัชจลนศาสตร์",
   "pages": 25,
-  "bytes": 1509553,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน เภสัชจลนศาสตร์.pdf.md"
   ]
@@ -385,7 +385,7 @@
   "subject": "pharmacology 2",
   "title": "1.Principle of antibiotics use AM",
   "pages": 48,
-  "bytes": 4096810,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/1.Principle of antibiotics use AM.pdf.md"
   ]
@@ -395,7 +395,7 @@
   "subject": "pharmacology 2",
   "title": "2.Drugs affecting cell wall synthesis AM",
   "pages": 54,
-  "bytes": 3986207,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/2.Drugs affecting cell wall synthesis AM.pdf.md"
   ]
@@ -405,7 +405,7 @@
   "subject": "pharmacology 2",
   "title": "2026 Antimycobacterial drugs",
   "pages": 79,
-  "bytes": 2881310,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ กชรัตน์/2026 Antimycobacterial drugs.pdf.md"
   ]
@@ -415,7 +415,7 @@
   "subject": "pharmacology 2",
   "title": "2026 Antiparasitic Drugs",
   "pages": 92,
-  "bytes": 3365052,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ กชรัตน์/2026 Antiparasitic Drugs.pdf.md"
   ]
@@ -425,7 +425,7 @@
   "subject": "pharmacology 2",
   "title": "2569 Estrogen and Progestins",
   "pages": 75,
-  "bytes": 5001329,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 Estrogen and Progestins.pdf.md"
   ]
@@ -435,7 +435,7 @@
   "subject": "pharmacology 2",
   "title": "2569 เอกสารคำสอน estrogen_ยาคุมกำเนิด-2567 (วิลาสินี)",
   "pages": 40,
-  "bytes": 1863573,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 เอกสารคำสอน estrogen_ยาคุมกำเนิด-2567 (วิลาสินี).pdf.md"
   ]
@@ -445,7 +445,7 @@
   "subject": "pharmacology 2",
   "title": "2569_ เอกสารคำสอนเรื่องยาต้านไทรอยด์_Vilasinee",
   "pages": 18,
-  "bytes": 698133,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_ เอกสารคำสอนเรื่องยาต้านไทรอยด์_Vilasinee.pdf.md"
   ]
@@ -455,7 +455,7 @@
   "subject": "pharmacology 2",
   "title": "2569_thyroid hormone_Pharmacology_2",
   "pages": 30,
-  "bytes": 1812437,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_thyroid hormone_Pharmacology_2.pdf.md"
   ]
@@ -465,7 +465,7 @@
   "subject": "pharmacology 2",
   "title": "3.Glycopeptide and lipoglycopeptide AM",
   "pages": 19,
-  "bytes": 1500478,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/3.Glycopeptide and lipoglycopeptide AM.pdf.md"
   ]
@@ -475,7 +475,7 @@
   "subject": "pharmacology 2",
   "title": "4.Polymyxin AM",
   "pages": 11,
-  "bytes": 802499,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/4.Polymyxin AM.pdf.md"
   ]
@@ -485,7 +485,7 @@
   "subject": "pharmacology 2",
   "title": "5. Fluoroquinolone and tracyclin and DNA synthesis",
   "pages": 98,
-  "bytes": 5562114,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/5. Fluoroquinolone and tracyclin and DNA synthesis.pdf.md"
   ]
@@ -495,7 +495,7 @@
   "subject": "pharmacology 2",
   "title": "Adrenal steroids and their antagonists XX0326 TL",
   "pages": 41,
-  "bytes": 2572159,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Adrenal steroids and their antagonists XX0326 TL.pdf.md"
   ]
@@ -505,7 +505,7 @@
   "subject": "pharmacology 2",
   "title": "Anabolic-androgenic steroids and anti-androgens 010426 TL",
   "pages": 31,
-  "bytes": 2374497,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Anabolic-androgenic steroids and anti-androgens 010426 TL.pdf.md"
   ]
@@ -515,7 +515,7 @@
   "subject": "pharmacology 2",
   "title": "Anti-diabetic drugs_SW_2025",
   "pages": 72,
-  "bytes": 4954744,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/Anti-diabetic drugs_SW_2025.pdf.md"
   ]
@@ -525,7 +525,7 @@
   "subject": "pharmacology 2",
   "title": "Anticancer agents I",
   "pages": 41,
-  "bytes": 2950329,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/pharmacology 2/Anticancer agents I.pdf.md"
   ]
@@ -535,7 +535,7 @@
   "subject": "pharmacology 2",
   "title": "Anticancer agents II",
   "pages": 47,
-  "bytes": 3296283,
+  "ar": 1.4155,
   "docs": [
    "corpus/study/docs/pharmacology 2/Anticancer agents II.pdf.md"
   ]
@@ -545,7 +545,7 @@
   "subject": "pharmacology 2",
   "title": "Antivirals & Anti-HIV drugs _Warisara",
   "pages": 108,
-  "bytes": 3901579,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วริสรา/Antivirals & Anti-HIV drugs _Warisara.pdf.md"
   ]
@@ -555,7 +555,7 @@
   "subject": "pharmacology 2",
   "title": "Drugs used for regulating bone-mineral homeostasis 250326 TL",
   "pages": 39,
-  "bytes": 2891273,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Drugs used for regulating bone-mineral homeostasis 250326 TL.pdf.md"
   ]
@@ -565,7 +565,7 @@
   "subject": "pharmacology 2",
   "title": "Final_P'Co3_Immunomodulators_2026",
   "pages": 117,
-  "bytes": 5856617,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อนันต์ชัย/Final_P'Co3_Immunomodulators_2026.pdf.md"
   ]
@@ -575,7 +575,7 @@
   "subject": "pharmacology 2",
   "title": "Hypothalamic-pituitary hormones and their antagonists 010426 TL",
   "pages": 32,
-  "bytes": 2190062,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Hypothalamic-pituitary hormones and their antagonists 010426 TL.pdf.md"
   ]
@@ -585,7 +585,7 @@
   "subject": "pharmacology 2",
   "title": "Pharmacology lecture 2026_Anti-Hepatitis Agents_Vilasinee (1)",
   "pages": 61,
-  "bytes": 4574687,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/Pharmacology lecture 2026_Anti-Hepatitis Agents_Vilasinee (1).pdf.md"
   ]
@@ -595,7 +595,7 @@
   "subject": "pharmacology 2",
   "title": "Pharmacology of Antifungals_68",
   "pages": 58,
-  "bytes": 2348222,
+  "ar": 0.75,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/Pharmacology of Antifungals_68.pdf.md"
   ]
@@ -605,7 +605,7 @@
   "subject": "pharmacology 2",
   "title": "ตารางสอนเภสัชวิทยา 2_2568",
   "pages": 1,
-  "bytes": 85281,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/ตารางสอนเภสัชวิทยา 2_2568.pdf.md"
   ]
@@ -615,7 +615,7 @@
   "subject": "pharmacology 2",
   "title": "ประมวลรายวิชาเภสัชวิทยา 2_2568 1",
   "pages": 3,
-  "bytes": 197414,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/ประมวลรายวิชาเภสัชวิทยา 2_2568 1.pdf.md"
   ]
@@ -625,7 +625,7 @@
   "subject": "pharmacology 2",
   "title": "เภสัชวิทยาของยารักษาโรคเบาหวาน",
   "pages": 18,
-  "bytes": 766973,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/เภสัชวิทยาของยารักษาโรคเบาหวาน.pdf.md"
   ]
@@ -635,7 +635,7 @@
   "subject": "pharmacology 3",
   "title": "00 Basic Concepts in CNS Pharmacology Sheet",
   "pages": 13,
-  "bytes": 977816,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic Concepts in CNS Pharmacology Sheet.pdf.md"
   ]
@@ -645,7 +645,7 @@
   "subject": "pharmacology 3",
   "title": "00 Basic concepts in CNS pharmacology",
   "pages": 28,
-  "bytes": 959046,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic concepts in CNS pharmacology.pdf.md"
   ]
@@ -655,7 +655,7 @@
   "subject": "pharmacology 3",
   "title": "00 Pharmacology of Analgesics I Opioids",
   "pages": 26,
-  "bytes": 1050130,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Opioids.pdf.md"
   ]
@@ -665,7 +665,7 @@
   "subject": "pharmacology 3",
   "title": "00 Pharmacology of Analgesics I Paracetamol",
   "pages": 11,
-  "bytes": 413446,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Paracetamol.pdf.md"
   ]
@@ -675,7 +675,7 @@
   "subject": "pharmacology 3",
   "title": "Lesson Plan Pco3 PM  2569",
   "pages": 31,
-  "bytes": 745785,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Lesson Plan Pco3 PM  2569.pdf.md"
   ]
@@ -685,7 +685,7 @@
   "subject": "pharmacology 3",
   "title": "Syllabus Pharmacology 3_2569",
   "pages": 3,
-  "bytes": 141236,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 3/Syllabus Pharmacology 3_2569.pdf.md"
   ]
@@ -695,7 +695,7 @@
   "subject": "pharmacology 3",
   "title": "Task Worksheet Pharmacology 3 2569",
   "pages": 59,
-  "bytes": 3319860,
+  "ar": 1.2945,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Task Worksheet Pharmacology 3 2569.pdf.md"
   ]
@@ -705,7 +705,7 @@
   "subject": "pharmacology 3",
   "title": "Tips for learning 2569",
   "pages": 14,
-  "bytes": 734527,
+  "ar": 1.4145,
   "docs": [
    "corpus/study/docs/pharmacology 3/Tips for learning 2569.pdf.md"
   ]
@@ -715,7 +715,7 @@
   "subject": "pharmacology 3",
   "title": "Week01  Pharmacology of Drugs acting on GABAA receptor",
   "pages": 25,
-  "bytes": 1668822,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week01  Pharmacology of Drugs acting on GABAA receptor.pdf.md"
   ]
@@ -725,7 +725,7 @@
   "subject": "pharmacology 3",
   "title": "Week05  Pharmacology of Hypnotics and Anxiolytics",
   "pages": 25,
-  "bytes": 1507495,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week05  Pharmacology of Hypnotics and Anxiolytics.pdf.md"
   ]
@@ -735,7 +735,7 @@
   "subject": "pharmacology 3",
   "title": "Week05-06  Pharmacology of Antidepressants and lithium",
   "pages": 50,
-  "bytes": 3168129,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week05-06  Pharmacology of Antidepressants and lithium.pdf.md"
   ]
@@ -745,7 +745,7 @@
   "subject": "pharmacology 3",
   "title": "Week07 Pharmacology of Antipsychotics",
   "pages": 35,
-  "bytes": 2130283,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week07 Pharmacology of Antipsychotics.pdf.md"
   ]
@@ -755,7 +755,7 @@
   "subject": "pharmacology 3",
   "title": "Week10-11 Pharmacology of Drugs Used in Neurodegenerative diseases",
   "pages": 47,
-  "bytes": 2760216,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week10-11 Pharmacology of Drugs Used in Neurodegenerative diseases.pdf.md"
   ]
@@ -765,7 +765,7 @@
   "subject": "pharmacology 3",
   "title": "Week11-12  Pharmacology of Antiepileptics",
   "pages": 66,
-  "bytes": 4088813,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week11-12  Pharmacology of Antiepileptics.pdf.md"
   ]
@@ -775,7 +775,7 @@
   "subject": "pharmacology 3",
   "title": "Week13  Pharmacology of Drugs Used in Migraine Headache",
   "pages": 38,
-  "bytes": 2046142,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week13  Pharmacology of Drugs Used in Migraine Headache.pdf.md"
   ]
@@ -785,7 +785,7 @@
   "subject": "pharmacology 3",
   "title": "Week14 Pharmacology of Analgesics II Drug used in Neuropathic Pain & Centrally Acting Muscle Relaxants",
   "pages": 25,
-  "bytes": 1561418,
+  "ar": 0.5627,
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week14 Pharmacology of Analgesics II Drug used in Neuropathic Pain & Centrally Acting Muscle Relaxants.pdf.md"
   ]
