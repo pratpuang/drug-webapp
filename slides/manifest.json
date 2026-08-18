@@ -16,7 +16,8 @@
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1).pdf.md",
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/ตารางเรียนวิชา CPT1 ปีการศึกษา 2569/FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1).pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 1/General/FInal_ตารางสอน  CPT1  ปีการศึกษา 2569 (เทอม 1).pdf"
  },
  {
   "slug": "principle-of-pharmaceutical-care-i-3aug2026-ee92cf21",
@@ -43,7 +44,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Principle of Pharmaceutical Care I 3Aug2026.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 1/General/Principle of Pharmaceutical Care I 3Aug2026.pdf"
  },
  {
   "slug": "sl-bsc-pharm-case-based-soap-note-5-a1fbdd46",
@@ -81,7 +83,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Case-based SOAP note.5.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Case-based SOAP note.5.pdf"
  },
  {
   "slug": "sl-bsc-pharm-pcare-3-006f4eed",
@@ -171,7 +174,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Pcare.3.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 1/General/Sl.BSc.Pharm.Pcare.3.pdf"
  },
  {
   "slug": "handout-basic-drug-interaction-and-clinical-appr-b46b1055",
@@ -220,7 +224,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 1/General/handout basic drug interaction and clinical approach (apirat).pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 1/General/handout basic drug interaction and clinical approach (apirat).pdf"
  },
  {
   "slug": "acid-peptic-diseases-140826-210826-tl-64c3484e",
@@ -307,7 +312,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/Acid-peptic diseases 140826 210826 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 2/Acid-peptic diseases 140826 210826 TL.pdf"
  },
  {
   "slug": "diarrhea-constipation-ibs-hemorrhoid-070826-tl-cf04257e",
@@ -388,7 +394,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/Diarrhea Constipation IBS Hemorrhoid 070826 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 2/Diarrhea Constipation IBS Hemorrhoid 070826 TL.pdf"
  },
  {
   "slug": "402-cpt2-2569-e238e4df",
@@ -403,7 +410,8 @@
   ],
   "docs": [
    "corpus/study/docs/clinical pharmacy and therapeutics 2/แผนการสอนรายวิชา ภกปร 402 CPT2 - 2569.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/clinical pharmacy and therapeutics 2/แผนการสอนรายวิชา ภกปร 402 CPT2 - 2569.pdf"
  },
  {
   "slug": "20250925-pco1-drug-in-oa-ra-handoutv2-d660311b",
@@ -488,7 +496,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กชรัตน์/20250925 PCo1_Drug in OA_RA_HandoutV2.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.กชรัตน์/20250925 PCo1_Drug in OA_RA_HandoutV2.pdf"
  },
  {
   "slug": "2568-parasymphatomimetic-and-parasymphatolytic-a-6c77115c",
@@ -554,7 +563,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568 เอกสารคำสอน  Parasymphatomimetic and parasymphatolytic agents.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/2568 เอกสารคำสอน  Parasymphatomimetic and parasymphatolytic agents.pdf"
  },
  {
   "slug": "2568-7f5e5a7c",
@@ -592,7 +602,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568 เอกสารคำสอน_เภสัชวิทยาของยารักษาโรคเกาต์_วิลาสินี.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568 เอกสารคำสอน_เภสัชวิทยาของยารักษาโรคเกาต์_วิลาสินี.pdf"
  },
  {
   "slug": "2568-sept-3-slide-drugs-used-in-parasympathetic--0a16199b",
@@ -664,7 +675,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568_ Sept 3_Slide_Drugs used in Parasympathetic systems.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/2568_ Sept 3_Slide_Drugs used in Parasympathetic systems.pdf"
  },
  {
   "slug": "2568-for-lecture-pharmacology1-gout-1-h-5afcc5a9",
@@ -709,7 +721,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568_For lecture_pharmacology1_ Gout (1 h).pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/Pharmacology of drugs for treatment of gout/2568_For lecture_pharmacology1_ Gout (1 h).pdf"
  },
  {
   "slug": "2568-slide-aug-27-and-28-sympathomimetic-and-sym-83369155",
@@ -790,7 +803,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/2568_Slide_Aug 27 and 28_Sympathomimetic and sympatholytic drugs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/2568_Slide_Aug 27 and 28_Sympathomimetic and sympatholytic drugs.pdf"
  },
  {
   "slug": "ace-inhibitos-arbs-dris-cd0e9116",
@@ -822,7 +836,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/ACE inhibitos, ARBs & DRIs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.กฤษฎา/ACE inhibitos, ARBs & DRIs.pdf"
  },
  {
   "slug": "antianginal-agents-warisara-2025-ffc20160",
@@ -872,7 +887,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Antianginal Agents_Warisara_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วริสรา/Antianginal Agents_Warisara_2025.pdf"
  },
  {
   "slug": "antiarrhythmic-drugs-warisara-2025-b159016e",
@@ -916,7 +932,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Antiarrhythmic drugs - Warisara_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วริสรา/Antiarrhythmic drugs - Warisara_2025.pdf"
  },
  {
   "slug": "antihypertensive-agents-e694b349",
@@ -953,7 +970,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/Antihypertensive Agents.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.กฤษฎา/Antihypertensive Agents.pdf"
  },
  {
   "slug": "ccbs-d7710545",
@@ -983,7 +1001,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.กฤษฎา/CCBs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.กฤษฎา/CCBs.pdf"
  },
  {
   "slug": "diuretics-warisara-2025-439e81b6",
@@ -1034,7 +1053,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Diuretics_Warisara_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วริสรา/Diuretics_Warisara_2025.pdf"
  },
  {
   "slug": "drug-interaction-for-pco-i-3206a82f",
@@ -1136,7 +1156,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/Drug interaction-for Pco-I.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อาณัฐชัย/Drug interaction-for Pco-I.pdf"
  },
  {
   "slug": "drugs-affecting-gastrointestinal-motility-tl-040-1cc07d1f",
@@ -1184,7 +1205,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.ธีรัตถ์/Drugs affecting gastrointestinal motility TL 040925.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.ธีรัตถ์/Drugs affecting gastrointestinal motility TL 040925.pdf"
  },
  {
   "slug": "drugs-for-acid-peptic-diseases-tl-100925-39a79451",
@@ -1237,7 +1259,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.ธีรัตถ์/Drugs for acid-peptic diseases TL 100925.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.ธีรัตถ์/Drugs for acid-peptic diseases TL 100925.pdf"
  },
  {
   "slug": "histamine-anti-histamines-and-serotonin-agonists-1dd4523a",
@@ -1285,7 +1308,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Histamine anti-histamines and serotonin agonists_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/Histamine anti-histamines and serotonin agonists_2025.pdf"
  },
  {
   "slug": "ibd-ef97aea8",
@@ -1338,7 +1362,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/IBD.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อาณัฐชัย/IBD.pdf"
  },
  {
   "slug": "p-co1-pgx-2025-e91deb74",
@@ -1386,7 +1411,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/P'Co1_PGx_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อนันต์ชัย/P'Co1_PGx_2025.pdf"
  },
  {
   "slug": "pharmacology-of-antithrombotics-2025-sw-8578a282",
@@ -1458,7 +1484,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Antithrombotics_2025_SW.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Antithrombotics_2025_SW.pdf"
  },
  {
   "slug": "pharmacology-of-lipid-lowering-agents-sw-2025-d8afcdb8",
@@ -1520,7 +1547,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Lipid-lowering Agents_SW_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/Pharmacology of Lipid-lowering Agents_SW_2025.pdf"
  },
  {
   "slug": "pharmacology-of-heart-failure-2025-e3692567",
@@ -1585,7 +1613,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/Pharmacology_of_Heart_Failure_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อนันต์ชัย/Pharmacology_of_Heart_Failure_2025.pdf"
  },
  {
   "slug": "principle-of-drug-action-2025-18f873bd",
@@ -1637,7 +1666,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อนันต์ชัย/Principle of drug action 2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อนันต์ชัย/Principle of drug action 2025.pdf"
  },
  {
   "slug": "principle-of-drug-toxicity-p-co-i-00fb8e18",
@@ -1685,7 +1715,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.อาณัฐชัย/Principle of drug toxicity- P co I.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.อาณัฐชัย/Principle of drug toxicity- P co I.pdf"
  },
  {
   "slug": "principles-of-pharmacokinetics-2025-6e16677b",
@@ -1733,7 +1764,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Principles of Pharmacokinetics_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/Principles of Pharmacokinetics_2025.pdf"
  },
  {
   "slug": "prostanoids-nsaids-and-leukotriene-antagonists-2-db29f015",
@@ -1787,7 +1819,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/Prostanoids, NSAIDs and leukotriene antagonists_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/Prostanoids, NSAIDs and leukotriene antagonists_2025.pdf"
  },
  {
   "slug": "vasodilators-warisara-2025-cc153cbf",
@@ -1851,7 +1884,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วริสรา/Vasodilators_Warisara_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วริสรา/Vasodilators_Warisara_2025.pdf"
  },
  {
   "slug": "1-pych304-2568-56b50ccb",
@@ -1866,7 +1900,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/ประมวลรายวิชา เภสัชวิทยา 1 PYCH304-2568.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/ประมวลรายวิชา เภสัชวิทยา 1 PYCH304-2568.pdf"
  },
  {
   "slug": "2568-pharmacology-vilasinee-9e676198",
@@ -1931,7 +1966,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.วิลาสินี/เอกสารคำสอน 2568_Pharmacology ยาออกฤทธิ์เลียนแบบและยับยั้งการทำงานของระบบประสาทอะดรีเนอจิก_Vilasinee.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.วิลาสินี/เอกสารคำสอน 2568_Pharmacology ยาออกฤทธิ์เลียนแบบและยับยั้งการทำงานของระบบประสาทอะดรีเนอจิก_Vilasinee.pdf"
  },
  {
   "slug": "prostanoids-and-nsaids-72e853ff",
@@ -1961,7 +1997,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน Prostanoids and NSAIDs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน Prostanoids and NSAIDs.pdf"
  },
  {
   "slug": "85bfb74f",
@@ -1998,7 +2035,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน เภสัชจลนศาสตร์.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 1/อ.สุรศักดิ์/เอกสารคำสอน เภสัชจลนศาสตร์.pdf"
  },
  {
   "slug": "1-principle-of-antibiotics-use-am-645aef08",
@@ -2058,7 +2096,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/1.Principle of antibiotics use AM.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อาณัฐชัย/1.Principle of antibiotics use AM.pdf"
  },
  {
   "slug": "2-drugs-affecting-cell-wall-synthesis-am-b61084b9",
@@ -2124,7 +2163,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/2.Drugs affecting cell wall synthesis AM.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อาณัฐชัย/2.Drugs affecting cell wall synthesis AM.pdf"
  },
  {
   "slug": "2026-antimycobacterial-drugs-7f6dc615",
@@ -2215,7 +2255,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ กชรัตน์/2026 Antimycobacterial drugs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ กชรัตน์/2026 Antimycobacterial drugs.pdf"
  },
  {
   "slug": "2026-antiparasitic-drugs-5449c83c",
@@ -2319,7 +2360,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ กชรัตน์/2026 Antiparasitic Drugs.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ กชรัตน์/2026 Antiparasitic Drugs.pdf"
  },
  {
   "slug": "2569-estrogen-and-progestins-b11ad1d7",
@@ -2406,7 +2448,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 Estrogen and Progestins.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 Estrogen and Progestins.pdf"
  },
  {
   "slug": "2569-estrogen-2567-8816de2f",
@@ -2458,7 +2501,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 เอกสารคำสอน estrogen_ยาคุมกำเนิด-2567 (วิลาสินี).pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วิลาสินี/March 18, estrogen and progestins/2569 เอกสารคำสอน estrogen_ยาคุมกำเนิด-2567 (วิลาสินี).pdf"
  },
  {
   "slug": "2569-vilasinee-f9841671",
@@ -2488,7 +2532,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_ เอกสารคำสอนเรื่องยาต้านไทรอยด์_Vilasinee.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_ เอกสารคำสอนเรื่องยาต้านไทรอยด์_Vilasinee.pdf"
  },
  {
   "slug": "2569-thyroid-hormone-pharmacology-2-38a2b022",
@@ -2530,7 +2575,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_thyroid hormone_Pharmacology_2.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วิลาสินี/March 25 (Thyroid)/2569_thyroid hormone_Pharmacology_2.pdf"
  },
  {
   "slug": "3-glycopeptide-and-lipoglycopeptide-am-9f5a0055",
@@ -2561,7 +2607,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/3.Glycopeptide and lipoglycopeptide AM.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อาณัฐชัย/3.Glycopeptide and lipoglycopeptide AM.pdf"
  },
  {
   "slug": "4-polymyxin-am-e35c3aab",
@@ -2584,7 +2631,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/4.Polymyxin AM.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อาณัฐชัย/4.Polymyxin AM.pdf"
  },
  {
   "slug": "5-fluoroquinolone-and-tracyclin-and-dna-synthesi-c8c7fc4f",
@@ -2694,7 +2742,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อาณัฐชัย/5. Fluoroquinolone and tracyclin and DNA synthesis.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อาณัฐชัย/5. Fluoroquinolone and tracyclin and DNA synthesis.pdf"
  },
  {
   "slug": "adrenal-steroids-and-their-antagonists-xx0326-tl-4181b293",
@@ -2747,7 +2796,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Adrenal steroids and their antagonists XX0326 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ ธีรัตถ์/Adrenal steroids and their antagonists XX0326 TL.pdf"
  },
  {
   "slug": "anabolic-androgenic-steroids-and-anti-androgens--b776f01c",
@@ -2790,7 +2840,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Anabolic-androgenic steroids and anti-androgens 010426 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ ธีรัตถ์/Anabolic-androgenic steroids and anti-androgens 010426 TL.pdf"
  },
  {
   "slug": "anti-diabetic-drugs-sw-2025-26b0f7d2",
@@ -2874,7 +2925,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/Anti-diabetic drugs_SW_2025.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ สุรศักดิ์/Anti-diabetic drugs_SW_2025.pdf"
  },
  {
   "slug": "anticancer-agents-i-b39d4a11",
@@ -2927,7 +2979,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/Anticancer agents I.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/Anticancer agents I.pdf"
  },
  {
   "slug": "anticancer-agents-ii-bb28090d",
@@ -2986,7 +3039,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/Anticancer agents II.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/Anticancer agents II.pdf"
  },
  {
   "slug": "antivirals-anti-hiv-drugs-warisara-245d2fa3",
@@ -3106,7 +3160,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วริสรา/Antivirals & Anti-HIV drugs _Warisara.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วริสรา/Antivirals & Anti-HIV drugs _Warisara.pdf"
  },
  {
   "slug": "drugs-used-for-regulating-bone-mineral-homeostas-b7a653be",
@@ -3157,7 +3212,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Drugs used for regulating bone-mineral homeostasis 250326 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ ธีรัตถ์/Drugs used for regulating bone-mineral homeostasis 250326 TL.pdf"
  },
  {
   "slug": "final-p-co3-immunomodulators-2026-596279ab",
@@ -3286,7 +3342,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ อนันต์ชัย/Final_P'Co3_Immunomodulators_2026.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ อนันต์ชัย/Final_P'Co3_Immunomodulators_2026.pdf"
  },
  {
   "slug": "hypothalamic-pituitary-hormones-and-their-antago-ea4ae4dc",
@@ -3330,7 +3387,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ ธีรัตถ์/Hypothalamic-pituitary hormones and their antagonists 010426 TL.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ ธีรัตถ์/Hypothalamic-pituitary hormones and their antagonists 010426 TL.pdf"
  },
  {
   "slug": "pharmacology-lecture-2026-anti-hepatitis-agents--ac6aa424",
@@ -3403,7 +3461,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ วิลาสินี/Pharmacology lecture 2026_Anti-Hepatitis Agents_Vilasinee (1).pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ วิลาสินี/Pharmacology lecture 2026_Anti-Hepatitis Agents_Vilasinee (1).pdf"
  },
  {
   "slug": "pharmacology-of-antifungals-68-e329d966",
@@ -3473,7 +3532,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/Pharmacology of Antifungals_68.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ สุรศักดิ์/Pharmacology of Antifungals_68.pdf"
  },
  {
   "slug": "2-2568-11c101a5",
@@ -3486,7 +3546,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/ตารางสอนเภสัชวิทยา 2_2568.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/ตารางสอนเภสัชวิทยา 2_2568.pdf"
  },
  {
   "slug": "2-2568-1-a7f7d61f",
@@ -3501,7 +3562,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/ประมวลรายวิชาเภสัชวิทยา 2_2568 1.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/ประมวลรายวิชาเภสัชวิทยา 2_2568 1.pdf"
  },
  {
   "slug": "2e3c4afd",
@@ -3531,7 +3593,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 2/อ สุรศักดิ์/เภสัชวิทยาของยารักษาโรคเบาหวาน.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 2/อ สุรศักดิ์/เภสัชวิทยาของยารักษาโรคเบาหวาน.pdf"
  },
  {
   "slug": "00-basic-concepts-in-cns-pharmacology-sheet-c2214d95",
@@ -3556,7 +3619,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic Concepts in CNS Pharmacology Sheet.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic Concepts in CNS Pharmacology Sheet.pdf"
  },
  {
   "slug": "00-basic-concepts-in-cns-pharmacology-5d9b8e5f",
@@ -3596,7 +3660,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic concepts in CNS pharmacology.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Self-study pack 1 Basic concepts in CNS Pharmacology/00 Basic concepts in CNS pharmacology.pdf"
  },
  {
   "slug": "00-pharmacology-of-analgesics-i-opioids-c67f2d7d",
@@ -3634,7 +3699,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Opioids.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Opioids.pdf"
  },
  {
   "slug": "00-pharmacology-of-analgesics-i-paracetamol-42fc024d",
@@ -3657,7 +3723,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Paracetamol.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Self-study pack 2 Analgesics I Opioids and Paracetamol/00 Pharmacology of Analgesics I Paracetamol.pdf"
  },
  {
   "slug": "lesson-plan-pco3-pm-2569-19ee78c8",
@@ -3700,7 +3767,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Lesson Plan Pco3 PM  2569.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Lesson Plan Pco3 PM  2569.pdf"
  },
  {
   "slug": "syllabus-pharmacology-3-2569-34789959",
@@ -3715,7 +3783,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/Syllabus Pharmacology 3_2569.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/Syllabus Pharmacology 3_2569.pdf"
  },
  {
   "slug": "task-worksheet-pharmacology-3-2569-4ff8d61d",
@@ -3786,7 +3855,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Task Worksheet Pharmacology 3 2569.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Task Worksheet Pharmacology 3 2569.pdf"
  },
  {
   "slug": "tips-for-learning-2569-f029b8af",
@@ -3812,7 +3882,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/Tips for learning 2569.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/Tips for learning 2569.pdf"
  },
  {
   "slug": "week01-pharmacology-of-drugs-acting-on-gabaa-rec-5fd8e1d1",
@@ -3849,7 +3920,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week01  Pharmacology of Drugs acting on GABAA receptor.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week01  Pharmacology of Drugs acting on GABAA receptor.pdf"
  },
  {
   "slug": "week05-pharmacology-of-hypnotics-and-anxiolytics-6c1d1410",
@@ -3886,7 +3958,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week05  Pharmacology of Hypnotics and Anxiolytics.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week05  Pharmacology of Hypnotics and Anxiolytics.pdf"
  },
  {
   "slug": "week05-06-pharmacology-of-antidepressants-and-li-e45bad64",
@@ -3948,7 +4021,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week05-06  Pharmacology of Antidepressants and lithium.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week05-06  Pharmacology of Antidepressants and lithium.pdf"
  },
  {
   "slug": "week07-pharmacology-of-antipsychotics-4ac41e1f",
@@ -3995,7 +4069,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week07 Pharmacology of Antipsychotics.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week07 Pharmacology of Antipsychotics.pdf"
  },
  {
   "slug": "week10-11-pharmacology-of-drugs-used-in-neurodeg-f8b749f1",
@@ -4054,7 +4129,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week10-11 Pharmacology of Drugs Used in Neurodegenerative diseases.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week10-11 Pharmacology of Drugs Used in Neurodegenerative diseases.pdf"
  },
  {
   "slug": "week11-12-pharmacology-of-antiepileptics-8ce479b5",
@@ -4132,7 +4208,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week11-12  Pharmacology of Antiepileptics.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week11-12  Pharmacology of Antiepileptics.pdf"
  },
  {
   "slug": "week13-pharmacology-of-drugs-used-in-migraine-he-2832c09f",
@@ -4182,7 +4259,8 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week13  Pharmacology of Drugs Used in Migraine Headache.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week13  Pharmacology of Drugs Used in Migraine Headache.pdf"
  },
  {
   "slug": "week14-pharmacology-of-analgesics-ii-drug-used-i-6923db90",
@@ -4219,6 +4297,7 @@
   ],
   "docs": [
    "corpus/study/docs/pharmacology 3/อ.พงศธร/Week14 Pharmacology of Analgesics II Drug used in Neuropathic Pain & Centrally Acting Muscle Relaxants.pdf.md"
-  ]
+  ],
+  "src": "raw/study/lecture slide/pharmacology 3/อ.พงศธร/Week14 Pharmacology of Analgesics II Drug used in Neuropathic Pain & Centrally Acting Muscle Relaxants.pdf"
  }
 ]
